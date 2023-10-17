@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá 🖖
 
-<!--
-**0arKes/0arKes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<Code>
+# Sou desenvolvedor python :)
+</Code>
 
-Here are some ideas to get you started:
+#
+[![Artstation](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
+)](https://www.artstation.com/arkes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/bruno-haag-b59bba261/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0arKes&show_icons=true&theme=radical)
