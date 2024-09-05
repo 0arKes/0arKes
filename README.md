@@ -1,10 +1,7 @@
-<h1 align="center">HELLO</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&duration=5500&pause=1000&color=F71D1D&center=true&repeat=false&width=435&lines=-%E1%9B%9F%E1%9B%9E%E1%9B%81%E1%9A%BE-" alt="Typing SVG" /></a>
+</div>
 
-###
-
-
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0arKes&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
