@@ -1,3 +1,10 @@
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=6000&pause=1000&color=F71D1D&center=true&repeat=false&width=500&height=60&lines=%E1%9B%9F+%E1%9B%9E+%E1%9B%81+%E1%9A%BE" alt="Typing SVG" />
+</div>
+
+
 <h1 align="center">>>> print("Hello! 👋")</h1>
 
 ###
